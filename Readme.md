@@ -9,7 +9,7 @@
 - [my first FAUST program](noise.dsp)
 - Getting Help:
   - [The Manual](https://faustdoc.grame.fr/manual/introduction/)
-    - [Especially the Syntax Section](https://faustdoc.grame.fr/manual/syntax
+    - [Especially the Syntax Section](https://faustdoc.grame.fr/manual/syntax)
   - [Libraries Documentation](https://faustlibraries.grame.fr/)
 - [Web IDE](https://faustide.grame.fr/) Overview
 - a word about the [FAUST Library](https://github.com/grame-cncm/faustlibraries)

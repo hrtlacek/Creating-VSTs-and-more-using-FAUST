@@ -27,5 +27,7 @@
   - [sequence](sequence02.dsp)
   - [parallel](parallel02.dsp)
   - [`_`: a cable](aCable.dsp)
-  - splitting
-  - combining
+  - [splitting](split.dsp)
+  - [combining](combine.dsp)
+
+  

@@ -1,7 +1,10 @@
-# Music Hackspace Course: *Creating VSTs and more using FAUST*
+# Music Hackspace Workshop: *Creating VSTs and more using FAUST*
 
 
 ## Workshop Structure
+
+### introduction
+
 - Motivation: Why FAUST
 - [my first FAUST program](noise.dsp)
 - Getting Help:
@@ -18,3 +21,11 @@
 - [assigning variables to keep things simple](variables.dsp)
 - *Breakout session 01*: Build a program that plays a 100 Hz sine-wave on the left channel and a high- passed noise on the right channel.
   - Solution: [here](solution_bo_01.dsp)
+
+### Language Fundamentals
+- Block Diagram Operations: `:`,`,`,`_`,`<:`,`:>`
+  - [sequence](sequence02.dsp)
+  - [parallel](parallel02.dsp)
+  - [`_`: a cable](aCable.dsp)
+  - splitting
+  - combining

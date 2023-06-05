@@ -29,5 +29,11 @@
   - [`_`: a cable](aCable.dsp)
   - [splitting](split.dsp)
   - [combining](combine.dsp)
+- [Interactivity: A  basic slider](aSlider.dsp)
+- Avoid Jitter with sliders: `si.smoo`
+- Make large networks with one-liners: `par` and `seq`
+- Context Management with `with`
+- Difference Equations using `letrec`
 
-  
+### Other Examples
+[ParallelResonators](ParallelResonators.dsp)

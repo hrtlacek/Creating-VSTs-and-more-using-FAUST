@@ -1,7 +1,7 @@
 # Music Hackspace Course: *Creating VSTs and more using FAUST*
 
 
-## Course Structure
+## Workshop Structure
 - Motivation: Why FAUST
 - [my first FAUST program](noise.dsp)
 - Getting Help:

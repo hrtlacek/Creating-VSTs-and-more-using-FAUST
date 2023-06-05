@@ -17,4 +17,4 @@
 - [Parallel Composition](parallel01.dsp)
 - [assigning variables to keep things simple](variables.dsp)
 - *Breakout session 01*: Build a program that plays a 100 Hz sine-wave on the left channel and a high- passed noise on the right channel.
-- Solution: [here](solution_bo_01.dsp)
+  - Solution: [here](solution_bo_01.dsp)

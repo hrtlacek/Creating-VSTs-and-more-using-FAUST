@@ -23,7 +23,7 @@
   - Solution: [here](DSP/solution_bo_01.dsp)
 
 ### Language Fundamentals
-- Block Diagram Operations: `:`,`,`,`_`,`<:`,`:>`
+- Basic Block Diagram Operations: `:`,`,`,`_`,`<:`,`:>`
   - [sequence](DSP/sequence02.dsp)
   - [parallel](DSP/parallel02.dsp)
   - [`_`: a cable](DSP/aCable.dsp)
@@ -31,9 +31,17 @@
   - [combining](DSP/combine.dsp)
 - [Interactivity: A  basic slider](DSP/aSlider.dsp)
 - Avoid Jitter with sliders: `si.smoo`
+- [Context Management with `with`](DSP/usingWith.dsp)
+- *Breakout session 02*: Make what we have interactive (add Sliders) and add an additional effect. 
+- Solution [here](DSP/solution_bo_02.dsp)
 - Make large networks with one-liners: `par` and `seq`
-- Context Management with `with`
-- Difference Equations using `letrec`
+- [Difference Equations using `letrec`](DSP/onePoleLetrec.dsp)
+
+### Building Instruments
+- [Midi Enabled Instrument](DSP/midiInstrument.dsp)
+- [Base drum through guitar amp](DSP/basedrum.dsp)
 
 ### Other Examples
 [ParallelResonators](DSP/ParallelResonators.dsp)
+[additive Synthesis](DSP/spreadSaw.dsp)
+[randomly spread partials](DSP/randomDeviation.dsp)

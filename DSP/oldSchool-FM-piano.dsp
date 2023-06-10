@@ -22,4 +22,5 @@ modulator2 = os.osc(f_mod2)*f_amount2*f_fund;
 
 carrier = os.osc(f_fund + modulator1 + modulator2 )*env; 
 
-process = carrier<:_,_:dm.zita_light;
+process = carrier<:_,_;
+effect = dm.zita_light;

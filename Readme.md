@@ -42,6 +42,9 @@
 - [Base drum through guitar amp](DSP/basedrum.dsp)
 
 ### Other Examples
+[simple FM](DSP/simpleFM.dsp)
 [ParallelResonators](DSP/ParallelResonators.dsp)
 [additive Synthesis](DSP/spreadSaw.dsp)
 [randomly spread partials](DSP/randomDeviation.dsp)
+[feedback Delay with filter and distortion in fb path](DSP/fbDelayDrums.dsp)
+[Old-School (1977) FM-Piano Sound](DSP/oldSchool-FM-piano.dsp)
